@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IIS / local config
+*.vspscc
+*.vssscc
+
+# Optional (if using publish profiles)
+*.pubxml
+*.publishproj
